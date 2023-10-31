@@ -19,6 +19,11 @@
     height: 740px;
     margin-left: 40%;    
 }
+#details{
+    font-size: 19px; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 9%;
+}
 h4{
     text-align: center;
     color: red;
